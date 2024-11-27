@@ -9,6 +9,9 @@ createRoot(document.getElementById('root')).render(
         <main>
             <div class="container">
                 <div class="row">
+                    <div class="col">
+                        <h1 class="main-title">Il mio blog</h1>
+                    </div>
                     <div class="col-6">
                         <Card></Card>
                     </div>
